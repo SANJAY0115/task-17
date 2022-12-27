@@ -1,0 +1,22 @@
+
+
+#count
+{
+    border: 1px solid black;
+    border-radius: 50%;
+    width:200px;
+    height:100px;
+    background-color: rgb(229, 128, 128);
+    font-size:x-large;
+}
+
+body
+{
+    background-color:rgb(235, 180, 171);
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+
+    
+
+}
